@@ -1,6 +1,6 @@
 package com.example.firstproject.web;
 
-import com.example.firstproject.service.posts.PostsService;
+import com.example.firstproject.service.PostsService;
 import com.example.firstproject.web.dto.PostsResponseDto;
 import com.example.firstproject.web.dto.PostsSaveRequestDto;
 import com.example.firstproject.web.dto.PostsUpdateRequestDto;

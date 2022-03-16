@@ -1,4 +1,4 @@
-package com.example.firstproject.service.posts;
+package com.example.firstproject.service;
 
 import com.example.firstproject.domain.posts.Posts;
 import com.example.firstproject.domain.posts.PostsRepository;
